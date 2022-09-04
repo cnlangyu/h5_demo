@@ -1,0 +1,55 @@
+.header{
+    width: 100%;
+    padding-top: 33.5%;
+    background: url("../imgs/1.jpg") no-repeat;
+    background-size: cover;
+}
+
+.covid-info{
+    padding: 0.16rem;
+    background: #fff;
+    border-bottom: 1px solid #f1f1f1;
+}
+.covid-title{
+    font-size: 0.17rem;
+}
+.covid-title i{
+    display: inline-block;
+    width: 0.04rem;
+    height: 0.16rem;
+    margin-right: 0.03rem;
+    vertical-align: middle;
+    background: #4169e2;
+}
+.covid-content{
+    padding: 0.06rem 0.16rem;
+}
+.covid-content p{
+    font-size: 13px;
+    margin: 5px 0;
+}
+
+.cn-info{
+    padding: 0.16rem;
+    background: #fff;
+}
+.cn-container{
+    margin: -0.16rem 0 0;
+    font-size: 0.12rem;
+}
+.cn-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.08rem 0 0.07rem;
+    line-height: 0.24rem;
+}
+.cn-title span{
+    color: #666;
+}
+
+.cn-num{
+    position: relative;
+    text-align: center;
+    background: #fff;
+}
